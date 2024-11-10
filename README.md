@@ -31,7 +31,7 @@ This repository provides scripts and automation for mounting AWS S3 buckets to L
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/s3-mount-automator-ec2-linux.git
+    git clone https://github.com/arunsoman/s3-mount-automator-ec2-linux.git
     cd s3-mount-automator-ec2-linux
     ```
 
